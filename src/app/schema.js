@@ -46,3 +46,5 @@ export const lockboxItemSchema = {
 
     "required": ["username", "password", "isCurrentItem"]
 };
+
+export default lockboxItemSchema;

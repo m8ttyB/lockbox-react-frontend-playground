@@ -8,7 +8,6 @@ https://github.com/crankycoder/places-webext
 
 Build and Run:
 
-- `git checkout fc0e04f54d9aba7825908297ea1af9b1b5238621`
 - `npm install; npm start`
 
 Open localhost:3000 in your browser

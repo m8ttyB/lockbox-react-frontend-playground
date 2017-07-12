@@ -3,7 +3,8 @@
 This is a React web app for experimenting with Lockbox UI. 
 Might be useful for a quick front-end for a lockbox web extension.
 
-_KNOWN ISSUE: [HEAD does not currently build and run](https://github.com/mozilla-lockbox/lockbox-react-frontend-playground/issues/1)_
+For reference, a fully working redux-based web extension example is here:
+https://github.com/crankycoder/places-webext
 
 Build and Run:
 
